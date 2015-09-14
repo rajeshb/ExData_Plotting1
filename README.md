@@ -1,3 +1,16 @@
+## Important Instructions!!
+
+After cloning this github repository, extract the zip file from data folder. Since the data file is bigger than github filesize limit, it is checked in as ZIP file.
+
+* <b>Steps</b>:
+
+<ol>
+<li>Extract data file (Zip) into data folder</li>
+<li>From R, or RStudio, set the working directory to ExData_Plotting1 folder</li>
+<li>Execute 4 source files - plot1.R through plot4.R - generating plot1.png through plot4.png</li>
+<li>Compare the results against the published plots for this exercise.</li>
+</ol>
+
 ## Introduction
 
 This assignment uses data from
